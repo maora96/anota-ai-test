@@ -1,4 +1,5 @@
 import express from "express";
+import mongoose from "../utils/database";
 
 export const createProduct = async (req, res) => {};
 
