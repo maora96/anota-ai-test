@@ -22,7 +22,7 @@ repository for the anota ai back-end dev test
 # clone repository
 $ git clone https://github.com/maora96/anota-ai-test.git
 
-# install Dependencies
+# install dependencies
 $ npm install
 
 # run app
